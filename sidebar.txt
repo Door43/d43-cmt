@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cmt:home|Door43 (cmt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cmt|d43-cmt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cmt/archive/master.zip|d43-cmt.zip]]
+
+**Recent Changes**
+{{changes>ns = cmt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cmt|Ethnologue data]]
+
